@@ -47,7 +47,7 @@
  - Většina systémů ukládá informace jako seznamy změn jednotlivých souborů (Obr 1.4)
  - Takže mají uloženou sadu souborů a seznam změn těchto souborů v čase
  - Když v systému **Git** zapíšete stav projektu:
-   - Git v podstatě "vyfotí", jak vypadají všechny vaše soubory v daném okamžiku a **uloží reference** na tento snímek
+   - Git v podstatě "vyfotí" (**snapshot**), jak vypadají všechny vaše soubory v daném okamžiku a **uloží reference** na tento snímek
    - Pokud v souborech nebyly provedeny žádné změny, Git uloží pouze odkaz na předchozí identický soubor
 
 ### 3.2 Práce s Gitem
@@ -70,3 +70,19 @@
    - Zapsáno (commited)
    - Změněno (modified)
    - Připraveno k zapsání (staged)
+ - Standartní postup v systému Git:
+    1. změníte soubory ve svém pracovním adresáři
+    2. Soubory připravíte k uložení tak, že vložíte snímky do oblasti připravených změn
+    3. Zapíšete revizi. Připravené snímky souborů se tak natrvalo uloží do adresáře Git
+
+### 3.5 Repozitář
+ - Repozitář je definován jako složka .git/ uvnitř vašeho projektu
+ - Když odstraníte složku .git/, tak se smaže všechna historie vašeho projektu
+
+### 3.6 Commit
+ - Commit je **snapshot** neboli snímek, který zachycuje, jak vypadaly soubory v danou chvíli ve vašem projektu
+
+### 3.7 Větvení
+ - Větvení znamená, že se můžete odloučit od hlavní linie vývoje a pokračovat v práci, aniž byste tuto hlavní linii zanášeli
+ - U jiných VCS se může jednat o náročný proces, který často vyžaduje vytvoření nové kopie adresáře projektu
+   - To může u velkých projektů trvat poměrně dlouho
