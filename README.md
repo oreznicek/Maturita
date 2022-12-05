@@ -1,10 +1,52 @@
 # Maturitní otázky 2023
 
 ## MIT a OPS (HW)
+### 1. Vrstva síťového přístupu, Ethernet
+### 2. Aplikační vrstva TCP/IP
+### 3. Síťový operační systém - Linux
+### 4. Referenční model OSI/ISO a síťové prvky
+### 5. VLAN, Inter-VLAN, návrh podnikové sítě
+### 6. Spolehlivá síť - STP, EtherCChannel, FHRP
+### 7. Sítě standardu IEEE 802.11
+### 8. Protokol TCP, UDP
+### 9. Adresace v internetu, cesta datagramu sítí
+### 10. Protokol IPv6, NDP
+### 11. Zabezpečení komunikace, ACL
+### 12. Směrování, směrovací tabulky, směrovací protokoly
+### 13. Problematika bezpečnosti počítačových sítí
+### 14. Mikrokontroléry (mcu) - základní pojmy
+ - Vysvětlení pojmu mikrokontrolér, harvardská a von Neumannova architektura, hlavní vlastnosti
+mikrokontrolérů Atmel AVR, popis blokového schématu.
+### 15. Připojování externích periferií k mcu
+ - Tlačítka, klávesnice, LED, segmentové a inteligentní displeje.
+### 16. Čítačové podsystémy mcu 
+ - Režim čítače/časovače, podrobný popis pro Atmel AVR. Režimy CAPTURE, COMPARE, PWM.
+ Dohlížecí časovač WDT.
+### 17. Internet věcí
+ - Vyvětlení pojmu, architektura, sítě typu LPWAN, komunikační protokoly.
+### 18. Přerušovací podsystém mcu
+ - Přerušení, obsluha, vektor, povolení, příznak, priorita, kontext, zpracování, přerušovací systém
+ Atmel AVR.
+### 19. Vyšší programovací jazyky pro mcu
+ - Požadavky vpj na architekturu mcu, omezení a rozdíly vůči programování pro osobní počítače, optimalizace kompilátoru.
+### 20. Sériová rozhraní mcu
+ - Popis sériových sběrnic USART, RS422/485, SPI/Microwire, I2C, 1Wire, CAN. Popis sériového portu Atmel AVR.
+### 21. Procesory
+ - Struktura současných procesorů (x86/64). Techniky optimalizace provádění instrukcí, snižování spotřeby. Rozšířené instrukční sady.
+### 22. Základní desky
+ - Základní deska (čipová sada, bios), interní sběrnice (PCI, PCIe), externí sběrnice (usb, firewire).
+### 23. Paměti
+ - Typy pamětí, struktura, základní parametry, optimalizace přístupu do paměti (cache).
+### 24. Zařízení pro ukládání dat
+ - Pevné disky (HDD/SSD), optická média (CD, DVD, BlueRay), rozhraní PATA, SATA, SCSI, SAS, M.2.
+### 25. Grafické karty
+ - Struktura, základní parametry, akcelerace, vytváření 3D scény, použití pro negrafické výpočty.
+### 26. Výstupní zařízení PC
+ - Displeje - LCD, LED, OLED, technologie zobrazení, základní parametry, Tiskárny - technologie tisku, základní parametry.
 
 ## PRG a WEB (SW)
 ### 1. Základní programové konstrukce
- - Základní programové konstrukce, proměnné, datové typy, reference a hodnota, programy a podprogramy, operátory, priorita operátorů.
+ - Základní programové konstrukce, proměnné, datové typy, reference a hodnota, programy a podprogramy, operátory, priorita operátorů
 ### 2. Algoritmus, algoritmická složitost
  - Algoritmus, algoritmická složitost, rekurze, náhodnost.
 ### 3. Strukturované datové typy
