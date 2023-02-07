@@ -2,7 +2,7 @@
 
 ## MIT a OPS (HW)
 ### 1. Vrstva síťového přístupu, Ethernet
-### 2. Aplikační vrstva TCP/IP
+### 2. Aplikační vrstva TCP/IP (DHCP, NAT, DNS)
 ### 3. Síťový operační systém - Linux
 ### 4. Referenční model OSI/ISO a síťové prvky
 ### 5. VLAN, Inter-VLAN, návrh podnikové sítě
@@ -84,12 +84,13 @@ mikrokontrolérů Atmel AVR, popis blokového schématu.
 ### 19. Frameworky architektury MVC
  - MVC, MVP, MVVM, Model, View, Controller, Presenter, Page, PageModel, request, response, http
 ### 20. Ověřování identity v prostředí internetu
- - Jméno, heslo, dvoufázové ověřování, biometrické ověřování, OAuth2, resource, owner, authorization server, OpenID, poskytovatelé ověření, access_token
+ - Jméno, heslo, dvoufázové ověřování, biometrické ověřování, OAuth2, resource, owner, authorization server, OpenID, poskytovatelé ověření, access token
 ### 21. Návrh webové aplikace ASP.NET
  - Razor Pages, MVC, Page, PageModel, Razor syntaxe, Startup.cs, služba, databáze, Entity Framework, Identity
 ### 22. AJAX, REST
  - Klasická a asynchronní komunikace, AJAX, promise, fetch API, API, metody http, GET, POST, DELETE, PUT, PATCH, OPTION, REST, chybové kódy a návratové hodnoty
 ### 23. React
  - Component, DOM, Virtual DOM, událost, props, state, hook, propagace stavu, context, npm
-### 24. Testování software
+### ~~24. Návrhový vzor Flux~~
+### 25. Testování software
  - Sémantická chyba, syntaktická chyba, chyba, debugging, ladění aplikace, výjimka, testování, jednotkové testy.

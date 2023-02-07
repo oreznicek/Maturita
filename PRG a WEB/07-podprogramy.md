@@ -47,9 +47,6 @@ Jednou z jeho dalších velkých výhod je, že umožňuje rekurzivní volání.
  - Můžeme ale definovat tzv. **lokální funkce** (2.2)
  - Metody jsou deklarovány ve **třídě**, **struktuře** nebo **rozhraní**
  - Hlavním vstupním bodem každé C# aplikace je metoda "Main"
-   - od verze C# 9 se nemusí explicitně zahrnout, místo toho je jeden soubor **nejvyšší úrovně**
-   - může však existovat pouze jeden! Jinak C# vyhodí následující error:
-     - CS8802 Pouze jedna jednotka kompilace může mít příkazy nejvyšší úrovně.
 
 ### 2.1 Syntax metody
 V jazyce C# se všechny tyto části společně nazývají podpis metody (deklarace)
