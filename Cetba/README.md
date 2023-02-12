@@ -2,8 +2,8 @@
 
 [Literární směry](/Literarni_smery.md), [Další informace k ústní zkoušce](/ustni_zkouska.md)
 
- 1. [W. Shakespeare - Hamlet](/01_kniha.md)
- 2. [W. Shakespeare - Romeo a Julie](/02_kniha.md)
+ 1. [W. Shakespeare - Hamlet](./01_kniha.md)
+ 2. [W. Shakespeare - Romeo a Julie](./02_kniha.md)
  3. [F. Prévost - Manon Lescaut](/03_kniha.md)
  4. [Moliére - Lakomec](/04_kniha.md)
  5. [N. V. Gogol - Revizor](/05_kniha.md)
