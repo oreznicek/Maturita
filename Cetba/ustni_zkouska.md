@@ -1,7 +1,9 @@
 # Ústní zkouška - CJL
  - další věci potřebné k ústní zkoušce z českého jazyka kromě díla, autora, ...
 
-## Vyprávěcí způsoby
+## Charakteristika uměleckého textu
+
+### Vyprávěcí způsoby
  - **přímá řeč**
    - vyjadřuje promluvu postavy, je oddělena uvozovkami
    - např. Pavel sáhl po její ruce a řekl: "Pojď, tady nemůžeme zůstat."
@@ -15,7 +17,7 @@
    - reprodukce řeči postavy vypravěčem, neodděluje se uvozovkami
    - např. Pavel sáhl po její ruce a řekl, že tady nemohou zůstat.
 
-## Veršovaná výstavba
+### Veršovaná výstavba
  - týká se pouze poezie
  - určit kolik slok a veršů obsahuje úryvek
  - určit druh rýmu:
@@ -26,7 +28,7 @@
    - **postupný** - ABCD; ABCD
    - **volný rým**
 
-## Jazykové prostředky a jejich funkce
+### Jazykové prostředky a jejich funkce
  - týká se pouze prózy a dramatu
  - jednotlivá slova vyhledat, pojmenovat a citovat
  - rozlišit:
@@ -50,7 +52,7 @@
 	 - vulgarismy - sprostá slova
  - zdůvotnit proč je autor využil
 
-## Tropy, figury a jejich funkce
+### Tropy, figury a jejich funkce
  - nalézt, pojmenovat a citovat
  - **tropy**
    - **metafora** - nepřímé pojmenování na základě vnější podobnosti (hlad - nejlepší kuchař)
@@ -71,7 +73,28 @@
    - **epifora** - opakování slov na konci veršů
    - **epanastrofa** - opakování slova na konci jednoho a na začátku druhého verše
 
-## Funkční styl
+
+
+## Charakteristika neuměleckého textu
+ - **souvislost mezi výňatky**
+   - nalézt a vyjádřit společné téma uměleckého a neuměleckého textu, své tvrzení zdůvodnit
+ - **hlavní myšlenka textu**
+   - říct vlastními slovy, o čem pojednává text
+   - postihnout ústřední téma
+ - **podstatné a nepodstatné informace**
+   - najít v textu pasáže, které nesou základní informace
+   - najít v textu pasáže/slova, která by bylo možné vypustit
+   - např. slova uvedená v závorkách, menší písmem, vysvětlivky, nadbytečná synonyma
+ - **různé způsoby čtení a interpretace textu**
+   - zodpovědět otázku, zda je text jednoznačný, nebo připouští více výkladů
+ - **domněnky a fakta**
+   - zodpovědět otázku, zda text obsahuje pouze ověřené informace, nebo i neověřená tvrzení
+ - **komunikační situace (účel, adresát)**
+   - zodpovědět otázku, za jakým účelem text vznikl a komu je určen
+   - např. inzerát - účelem je prodat danou věc, adresátem je někdo, kdo tuto věc shání
+ - **určit FUNKČNÍ STYL a SLOHOVÝ POSTUP**
+
+### Funkční styl
  - zařadit text k jednomu z funkčních stylů, případně zdůvodnit, proč je možné text řadit k více funkčním stylům
  - **prostě sdělovací**
    - vzkaz, SMS, komentář nebo status na FB, telefonát, ...
@@ -90,7 +113,7 @@
    - má estetický účinek, slouží k zábavě
    - u maturity se vyskatovat nebude, rozebírá se neumělecký text!
 
-## Slohový postup
+### Slohový postup
  - identifikovat, které slohové postupy se v textu vyskytují
  - málokterý text obsahuje jediný slohový postup, obvykle se mísí dva až tři
  - citovat, která pasáž náleží k jakému slohovému postupu
