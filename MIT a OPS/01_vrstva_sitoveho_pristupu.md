@@ -30,6 +30,7 @@ Spojová a fyzická dohromady tvoří vrstvu síťového přístupu
  - umožňuje, aby se v jedné síti mohlo používát několik síťových protokolů
    - IPv4, IPv6, AppleTalk
  - funguje jako rozhraní mezi síťovou vrstvou a MAC podvrstvou
+ - IEEE 802.2
 
 #### 1.1.2 Media Access Control (MAC)
  - je odpovědná za enkapsulaci dat a media access control
@@ -138,12 +139,72 @@ Spojová a fyzická dohromady tvoří vrstvu síťového přístupu
 	<img src="./img/Coaxial_cable.png" alt="STP cable" width="50%" />
 </div>
 
+#### Kategorie kabelů
+
+<table>
+	<thead>
+		<tr>
+			<th>Kategorie</th>
+			<th>Přenosová rychlost</th>
+			<th>Šířka pásma</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cat1</td>
+			<td>1 Mb/s</td>
+			<td>0,4 MHz</td>
+		</tr>
+		<tr>
+			<td>Cat2</td>
+			<td>4 Mb/s</td>
+			<td>4 MHz</td>
+		</tr>
+		<tr>
+			<td>Cat3</td>
+			<td>10 Mb/s</td>
+			<td>16 MHz</td>
+		</tr>
+		<tr>
+			<td>Cat4</td>
+			<td>16 Mb/s</td>
+			<td>20 Mhz</td>
+		</tr>
+		<tr>
+			<td>Cat5</td>
+			<td>100 Mb/s</td>
+			<td>100 Mhz</td>
+		</tr>
+		<tr>
+			<td>Cat5e</td>
+			<td>1 Gb/s</td>
+			<td>100 Mhz</td>
+		</tr>
+		<tr>
+			<td>Cat6</td>
+			<td>10 Gb/s</td>
+			<td>250 MHz</td>
+		</tr>
+		<tr>
+			<td>Cat6a</td>
+			<td>10 Gb/s</td>
+			<td>500 MHz</td>
+		</tr>
+		<tr>
+			<td>Cat7</td>
+			<td>10 Gb/s</td>
+			<td>600 MHz</td>
+		</tr>
+	</tbody>
+</table>
+
 ### Optické připojení
  - Přenos dat na velké vzdálenosti
  - Velká šířka pásma
  - Optické kabely jsou zcela imunní vůči rušení (EMI i RFI)
  - Uvnitř optického kabelu se nachází vlákno z velmi čistého skla
  - Přenáší světlo (fotony)
+ - Využívá se totálního odrazu
 
 #### Typy optických médií
  - **Konektory:** ST, SC, LC
@@ -239,4 +300,51 @@ V internetové síti stačí, aby jeden uzel na cestě k cíli měl menší prop
 
 Kvůli řadě faktorů obvykle propustnost neodpovídá šířce pásma. (Obvykle je nižší než šířka pásma)
 
-## ARP prokol, PPP média, modulace, 802.2, 802.3
+## Address Resolution Protocol (ARP)
+ - protokol pro odhalení IPv4 adres
+ - hledá MAC adresu k dané IPv4 adrese
+ - v IPv6 mu odpovídá ICMPv6 (ND - Neighbor Discovery)
+ - Man in the middle (ARP spoofing)
+ - **ARP Request**
+   - MAC adresa není v ARP tabulce
+   - pošle broadcast (FF-FF-FF-FF-FF-FF)
+ - **ARP Reply**
+   - odpověď zařízení s danou IPv4 adresou
+   - po přijetí odpovědi se vytvoří záznam v tabulce
+
+## Ethernet (IEEE 802.3)
+ - Ethernet je rodina protokolů pro kabelové připojení 
+
+### Rámec
+
+<div align="center">
+	<img src="./img/Ethernet_ramec.png" alt="STP cable" width="70%" />
+</div>
+
+Rámec musí mít délku alespoň 64 bytů. Pokud je paket menší, použijí se další bity (pad), které paket zvětší na tuto minimální velikost.
+
+ - **Preambule**
+   - slouží k synchronizaci mezi vysílacím a přijímacím zařízením
+   - prvním několik bajtů v podstatě informuje zařízení, aby se připravilo na příjem nového rámce
+ - **Cílová MAC adresa**
+ - **Zdrojová MAC adresa**
+ - **Typ**
+   - identifikuje protokol vyšší vrstvy (IPv4, IPv6, ARP, ...)
+ - **Data**
+   - obsahuje zapouzřená data z vyšší vrstvy
+ - **Kontrolní sekvence rámce (FCS)**
+   - Detekce chyb v rámci
+   - Používá cyclic redundancy check (CRC)
+   - Chybné rámce jsou zahozeny
+
+## Modulace signálu
+= měníme charakter **nosného** signálu pomocí **modulačního** signálu
+ 
+ 1. **Analogové modulace**
+    - dva signály s nekonečným počtem hodnot
+	- výsledkem je znovu signál s nekonečným počtem hodnot
+ 2. **Digitalní modulace**
+    - modulační signál nabývá konečného počtu stavů
+	- ASK - amplitudová modulace
+	- FSK - frekvenční modulace
+	- PSK - fázová modulace 
