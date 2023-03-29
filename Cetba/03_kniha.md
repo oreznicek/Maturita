@@ -28,7 +28,7 @@ Prévost psal v období **preromantismu**, což byl umělecký směr v druhé po
  - Dílo Manon Lescaut bylo krátce po publikaci ve Francii díky své kontroverznosti zakázáno
 
 ### Dílo v kontextu autorovi tvorby
-Dílo Manon Lescaut napsal v podstatě na počátku svoji tvorby a zůstala jeho nejvýznamnějším dílem.
+Dílo Manon Lescaut napsal v podstatě na počátku svoji tvorby a zůstala jeho nejvýznamnějším dílem. Manon Lescaut byla také později interpretována v divedelní hře od **Vítězslava Nezvala**.
 
 ## Postavy
 
