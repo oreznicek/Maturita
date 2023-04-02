@@ -1,20 +1,20 @@
 # Maturitní otázky 2023
 
 ## MIT a OPS (HW)
-### 1. Vrstva síťového přístupu, Ethernet
-### 2. Aplikační vrstva TCP/IP (DHCP, NAT, DNS)
-### 3. Síťový operační systém - Linux
-### 4. Referenční model OSI/ISO a síťové prvky
-### 5. VLAN, Inter-VLAN, návrh podnikové sítě
-### 6. Spolehlivá síť - STP, EtherCChannel, FHRP
-### 7. Sítě standardu IEEE 802.11
-### 8. Protokol TCP, UDP
-### 9. Adresace v internetu, cesta datagramu sítí
-### 10. Protokol IPv6, NDP
-### 11. Zabezpečení komunikace, ACL
-### 12. Směrování, směrovací tabulky, směrovací protokoly
-### 13. Problematika bezpečnosti počítačových sítí
-### 14. Mikrokontroléry (mcu) - základní pojmy
+ 1. [Vrstva síťového přístupu, Ethernet](./HW/01_otazka.md)
+ 2. [Aplikační vrstva TCP/IP](./HW/02_otazka.md)
+ 3. [Síťový operační systém - Linux](./HW/03_otazka.md)
+ 4. [Referenční model OSI/ISO a síťové prvky](./HW/04_otazka.md)
+ 5. [VLAN, Inter-VLAN, návrh podnikové sítě](./HW/05_otazka.md)
+ 6. [Spolehlivá síť - STP, EtherCChannel, FHRP](./HW/06_otazka.md)
+ 7. [Sítě standardu IEEE 802.11](./HW/07_otazka.md)
+ 8. [Protokol TCP, UDP](./HW/08_otazka.md)
+ 9. [Adresace v internetu, cesta datagramu sítí](./HW/09_otazka.md)
+ 10. [Protokol IPv6, NDP](./HW/10_otazka.md)
+ 11. [Zabezpečení komunikace, ACL](./HW/11_otazka.md)
+ 12. [Směrování, směrovací tabulky, směrovací protokoly](./HW/12_otazka.md)
+ 13. [Problematika bezpečnosti počítačových sítí](./HW/13_otazka.md)
+ 14. Mikrokontroléry (mcu) - základní pojmy
  - Vysvětlení pojmu mikrokontrolér, harvardská a von Neumannova architektura, hlavní vlastnosti
 mikrokontrolérů Atmel AVR, popis blokového schématu.
 ### 15. Připojování externích periferií k mcu
