@@ -1,6 +1,6 @@
 # Aktuální seznam knih
 
-[Literární směry](./Literarni_smery.md), [Další informace k ústní zkoušce](./ustni_zkouska.md)
+[Literární směry](../CJL/Literarni_smery.md), [Další informace k ústní zkoušce](../CJL/ustni_zkouska.md)
 
  1. [W. Shakespeare - Hamlet](./01_kniha.md)
  2. [W. Shakespeare - Romeo a Julie](./02_kniha.md)
