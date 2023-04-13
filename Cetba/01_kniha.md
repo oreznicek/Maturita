@@ -8,23 +8,32 @@ Autor: **William Shakespeare**
 
 ## Literární/obecně kulturní kontext
 
-Shakespearovu tvorbu bychom mohli považovat za vrcholné období anglické **renesance**. Lidé sympatizovali s myšlenkami **humanismu**, který na místo poznávání Boha stavěl na poznávání člověka. Začaly se tak rozvíjet nové tzv. humanitní vědy (filosofie a historie).
+Shakespearovu tvorbu bychom mohli považovat za vrcholné období anglické **renesance**. Lidé sympatizovali s myšlenkami **humanismu**.
+
+### Znaky renesance a humanismu
+ - návrat k antické kultuře
+ - na místo boha se stavělo poznávání člověka
 
 ### Jiní autoři z období humanismu a renesance
  - **Anglie**
    - Geoffrey Chaucer
-   - Christopher Marlow
  - **Španělsko**
    - Miguel de Cervantes
-   - Lope de Vega
+     - Důmyslný rytíř don Quijote de la Mancha
  - **Francie**
    - Francois Villon
-   - Francois Rabelais
-   - Pierre de Ronsard
+     - básně Malý testament a Velký testament
  - **Itálie**
    - Dante Alighieri
+     - Božská komedie
    - Francesco Petrarca
+     - Sonety Lauře (milostné verše věnované jedné ženě)
    - Giovanni Boccaccio
+     - Dekameron
+       - soubor 100 novel
+       - útěk mladých lidí z Francie před morem
+       - cestou si vypravují příběhy
+       - světská témata (láska, nevěra)
 
 ## Informace o autorovi
  - básník, dramatik a divadelní herec
