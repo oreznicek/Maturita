@@ -257,3 +257,50 @@ Byla vytvořena řada technik pro zlepšení bezdrátové komunikace a zmírněn
 <div align="center">
 	<img src="./img/OFDM.png" width="60%" />
 </div>
+
+## Zabezpečení WLAN
+ - pro zabezpečení se dá použít **SSID cloaking** nebo **filtrování MAC adres**
+ - nejlepším způsobem zabezpečení WLAN je však použití **ověřování** (authentication) a **šifrování** (encryption)
+
+### Metody ověřování
+
+Jsou dva základní druhy ověřování:
+
+ 1. **Open**
+    - každý bezdrátoví klient se může snadno připojit (bez hesla)
+	- měl by se používat pouze v situacích, kdy není třeba dbát na bezpečnost
+	- používá se např. v kavárnách, hotelech, obchodních centerch, ...
+ 2. **Shared key** (Ověřování pomocí sdíleného klíče) 
+    - poskytuje mechanismy jako WEP, WPA, WPA2 a WPA3 pro šifrování dat mezi AP a klientem
+	- heslo musí být předem sdíleno mezi oběma stranami, aby se mohly připojit
+
+<div align="center">
+	<img src="./img/overovaci_metody_WLAN.png" width="70%" />
+</div>
+
+#### Metody ověřování pomocí sdíleného klíče
+ - **WEP** (Wired Equivalent Privacy)
+   - původní metoda šifrování ze standardu 802.11
+   - využívá šifru **RC4** se statickým klíčem
+   - klíč se při výměně paketů nikdy nemění, což usnadňuje hackerské útoky
+   - **WEP by se tak už nikdy neměl používat**
+ - **WPA** (Wi-Fi Protected Access)
+   - používá silnější šifrovací algoritmus **TKIP** (Temporal Key Integrity Protocol)
+   - TKIP mění klíč pro každý paket (obtížnější na hackování)
+ - **WPA2**
+   - současný průmyslový standard pro zabezpečení WLAN
+   - k šifrování používá standard **AES** (Advanced Encryption Standard)
+ - **WPA3**
+   - nová generace zabezpečení Wi-Fi
+   - vyžaduje používání **PMF** (Protected Managment Frames)
+   - zařízení s WPA3 ještě nejsou dostupná
+
+#### Ověřovací metody WPA2
+ - **Personal**
+   - určeno pro domácí nebo malé kancelářské sítě
+   - uživatelé se ověřují pomocí **PSK**
+   - není vyžadován žádný ověřovací server
+ - **Enterprise**
+   - určeno pro podnikové sítě
+   - vyžaduje ověřovací server **RADIUS** (AAA)
+   - uživatelé se musí ověřit pomocí standardu **802.1X**, který používá **EAP** (Extensible Authentication Protocol) 
