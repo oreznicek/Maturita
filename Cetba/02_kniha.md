@@ -8,7 +8,11 @@ Autor: **William Shakespeare**
 
 ## Literární/obecně kulturní kontext
 
-Shakespearovu tvorbu bychom mohli považovat za vrcholné období anglické **renesance**. Lidé sympatizovali s myšlenkami **humanismu**, který na místo poznávání Boha stavěl na poznávání člověka. Začaly se tak rozvíjet nové tzv. humanitní vědy (filosofie a historie).
+Shakespearovu tvorbu bychom mohli považovat za vrcholné období anglické **renesance**. Lidé sympatizovali s myšlenkami **humanismu**.
+
+### Znaky renesance a humanismu
+ - návrat k antické kultuře
+ - na místo boha se stavělo poznávání člověka
 
 ### Jiní autoři z období humanismu a renesance
  - **Anglie**
