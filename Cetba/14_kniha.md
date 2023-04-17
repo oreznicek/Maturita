@@ -40,5 +40,3 @@ Jde o popis jednoho obyčejného dne Ivana Děnisoviče Šuchova, vězně v gula
    - kniha vyobrazuje jak to fungovalo v pracovních táborech na Sibiři
    - poukazuje na nesmyslnost trestů za naprosto banální prohřešky
  - **motivy:**
-
-## Jazykové prostředky

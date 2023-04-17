@@ -51,5 +51,3 @@ Komise poté rozhoduje koho vzít do nebe a koho nechat v očistci. Na konci vyb
    - ukázka české historie a jejich osobností
    - pobavení
  - **motivy:**
-
-## Jazykové prostředky

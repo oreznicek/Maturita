@@ -8,17 +8,9 @@ Autor: **Nikolaj Vasiljevič Gogol**
 
 ## Literární/obecně kulturní kontext
 
-Gogol byl představitelem ruského **romantismu** a je považován za zakladatele **kritického realismu**.
+Gogol je považován za zakladatele **kritického realismu**.
 
 V Rusku se prolínal romantismus s realismem.
-
-### Romantismus
- - důraz na **city** a **fantazii**
- - protiklad **snu** a **skutečnosti**
- - pocit **osamění**
- - obdiv k minulosti, mystice, přírodě, exotice
- - únik do vlastního nitra
- - časté téma = nešťastná láska
 
 ### Realismus
  - **pravdivý** obraz skutečnosti
@@ -52,7 +44,7 @@ V Rusku se prolínal romantismus s realismem.
 ### Dílo v kontextu autorovy tvorby
  - za nejlepší z jeho díla jsou považovány **povídky** 
    - ať už se jedná o **Petrohradské povídky** (1842) nebo **Arabesky** (1835)
- - arabeska = druh povídky
+ - *arabeska* = druh povídky
    - jednoduchá stavba a nekomplikovaný děj
    - ironizující pohled pohled na události nebo postavy
    - má výraznou pointu

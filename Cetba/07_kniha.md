@@ -11,20 +11,27 @@ Autor: **Karel Hynek Mácha**
 Karel Hynek Mácha byl nejvýznamnějším představitelem českého **romantismu**.
 
 ### Romantismus
- - klade důraz na **city** a **fantazii**
+ - důraz na **city** a **fantazii**
+ - pocit **osamění**
+ - podstatou je **individualista** -> osamocený člověk, uzavřený do sebe
+ - obdiv k minulosti, mystice, přírodě, exotice
+ - únik do vlastního nitra
+ - časté téma = **nešťastná láska**
  - hlavní hrdina bývá **výjimečný** a autor se s ním ztotožňuje
- - pocit osamění, odcizenosti, skepse
- - podstatou je člověk **individualista** -> osamocený člověk, uzavřený do sebe
- - obdiv k minulosti, mystice, k přírodě, exotice, únik do vlastního nitra
- - časté téma: **nešťastná láska**
 
 ### Jiní autoři z období romantismu
  - **Česko**
-   - Josef Dobrovský - Dějiny české řeči a literatury
-   - František Palacký 
-   - K. J. Erben - Kytice
-   - K. H. Borovský - Tyrolské elegie
-   - Božena Němcová - Babička
+   - K. J. Erben - *Kytice*
+   - K. H. Borovský - *Tyrolské elegie*
+   - Božena Němcová - *Babička*
+ - **Francie**
+   - Victor Hugo - *Bídníci*, *Chrám matky boží v Paříži* 
+ - **Německo**
+   - bratři Grimmové
+ - **USA**
+   - Edgar Allan Poe - *Havran* (nejznámnější báseň)
+ - **Rusko**
+   - Alexandr Sergejevič Puškin - *Evžen Oněgin*
 
 ## Informace o autorovi
  - český básník a prozaik
@@ -75,5 +82,5 @@ Loupežníci truchlí po svém vůdci.
 Po 7 letech, 31. prosince, přijíždí sám Mácha na popraviště a stále zde stojí kolo s Vilémovou lebkou. Druhý den se Mácha ptá hostinského na tělo, které viděl. Hostinský mu poví osud Viléma. Mácha odchází a 1. května se vrací a rozjímá o životě.
 
 ## Téma a motivy
- - **téma:**
+ - **téma:** nešťastná láska
  - **motivy:** smrt, duchové, utopení, loď, kat, voda, loupežníci
