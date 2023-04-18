@@ -13,10 +13,20 @@ Jaroslav Vrchlický se svou tvorbou řadil mezi **lumírovce**.
 ### Lumírovci
  - tzv. škola kosmopolitní
  - časopis **Lumír**
- - úsilí povznést českou literaturu na světovou úroveň
+ - úsilí povznést českou literaturu na **světovou úroveň**
  - **vlastenectví** a důraz na domácí tradice
  - zájem o venkov
  - chtěli uměleckou **svobodu**
+
+### Další autoři z 2. pol 19. století
+ - **Jan Neruda** - *Povídky malostranské*
+ - **Karolína Světlá** - *Kříž u potoka*
+ - **Jakub Arbes** - *Svatý Xaverius*
+
+### Další lumírovci
+ - **Julius Zeyer**
+   - povídka *Duhový pták* (byla otisknuta v časopise Lumír)
+   - *Tři legendy o krucifixu*
 
 ## Informace o autorovi
  - byl to český spisovatel, básník, dramatik a překladatel
@@ -29,9 +39,9 @@ Jaroslav Vrchlický se svou tvorbou řadil mezi **lumírovce**.
 
 Vrchlický toho za svého života napsal opravdu mnoho. Tady je jen zlomek z toho:
 
- - Strom života
- - Hudba v duši
- - Zlomky epopeje
+ - **Strom života** (1909)
+ - **Hudba v duši** (1886)
+ - **Zlomky epopeje** (1878 - 1906)
 
 ## Postavy
 
@@ -60,7 +70,7 @@ Vrchlický toho za svého života napsal opravdu mnoho. Tady je jen zlomek z toh
 
 ## Děj
  - **Časoprostor**
-   - Karlštejn, 14. století (červen 1363)
+   - hrad Karlštejn, 2. pol 14. století (červen 1363)
  - **Kompozice**
    - hra je rozdělena do 3 jednání
 
@@ -68,9 +78,9 @@ Na Karlštejn přijede Štěpán (vévoda bavorský) s tím, že potřebuje vyř
 
 Tou ženou byla Alžběta, manželka Karla IV., která přijela na hrad i přes zákaz, který říká, že žena nesmí strávit noc na Karlštejně. Na jejím hradě Karlík jí sužoval stesk a odloučení od manžela. Její touha jí tak dohnala až na Karlštejn. Není však jedinou ženou, která se vydala na Karlštejn, tou druhou je Alena, která se tam však vydala z úplně jiného důvodu. Vsadila se s otcem, že když dokáže strávit jednu noc na Karlštejně, tak si může vzít Peška. Obě ženy vstupují na hrad v přestrojení za královská pážata. Arnošt císařovně pomůže a domluví se s Peškem, aby hrál ten den nemocného (Pešek měl hlídat celou noc Karla IV.). Tím pádem ho Alžběta může v jeho roli zastoupit. Petr ví o císařovně a vydá se za ní. Proběhne mezi nimi souboj. Alžběta Petrovi zlomí meč a tak jí Karel IV. pozná.
 
-Potom se prozradí i přítomnost Aleny, a protože měli s císařovnou stejné převlečení, může Karel IV. předstírat, že na hradě byla jen Alena a císařovnu zachránit. Nakonec to zahrají tak, že císařovna před chvílí přijela a on jí pojede doprovodit na Karlík. Alena je odhalena, ale vše jí je odpuštěno a Pešek je povýšen na rytíře, takže se mohou vzít. Kniha končí odjezdem císaře a císařovny na Karlík a jeho novým rozhodnutím, které opravňovalo ženy ke vstupu na hrad Karlštejn.
+Potom se prozradí i přítomnost Aleny, a protože měli s císařovnou stejné převlečení, může Karel IV. předstírat, že na hradě byla jen Alena a císařovnu zachránit. Nakonec to zahrají tak, že císařovna před chvílí přijela a on jí pojede doprovodit na Karlík. Alena je odhalena, ale vše jí je odpuštěno a Pešek je povýšen na rytíře, takže se mohou vzít. Kniha končí odjezdem císaře a císařovny na Karlík.
 
 ## Téma a motivy
  - **téma:**
    - láska nezná hranic (může porušit všechny zákazy)
- - **motivy:** žena
+ - **motivy:** žena, láska, žárlivost, porušení zákazu

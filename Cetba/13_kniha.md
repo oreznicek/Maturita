@@ -3,35 +3,95 @@
 Autor: **George Orwell**
 
  - Literární druh - epika
- - Literární žánr - román, bajka, novela
+ - Literární žánr - román, bajka
  - Forma literárního druhu - próza
 
 ## Literární/obecně kulturní kontext
 
-Do jakého období se řadil **jmeno_autora** a jací jsou jiní autoři z tohoto období?
+George Orwell byl anglický spisovatel píšící v **1. polovině 20. století**.
+
+### Jiní autoři z 1. pol. 20. století
+ - **Německo**
+   - Erich Maria Remarque - *Na západní frontě klid*
+ - **USA** (ztracená generace)
+   - Ernest Hemingway - *Stařec a moře*, *Komu zvoní hrana*
+   - Francis Scott Fitzgerald - *Velký Gatsby*
+   - John Steinbeck - *O myších a lidech*, *Hrozny hněvu*
+   - William Faulkner - *Absolone, Absolone!*
+ - **Francie**
+   - Romain Rolland - *Petr a Lucie*
+   - Antoine de Saint - Exupéry - *Malý princ*
+ - **Anglie**
+   - George Orwell - *Farma zvířat*, *1984*
+   - George Bernard Shaw - *Pygmalion*
 
 ## Informace o autorovi
  - George Orwell byl britský novinář, esejista a spisovatel
- - po roce 1936 se jako dobrovolník zapojil do španělské občanské války, kde bojoval na vládní straně v jednotkách milicí PQUM
- - do roku 1940 psal recenze pro Nový anglický týdeník
- - v roce 1940 zahájil práci pro BBC
- - ačkoliv psal knihy o diktaturách komunistického typu, sám se cítil být socialistou
+ - narodil se v Indii
+ - jako dobrovolník se zapojil do španělské občanské války, kde bojoval na vládní straně
+ - pracoval pro BBC (britské veřejnoprávní médium)
+ - byl socialistou a odpůrcem totalitním režimů
+ - zemřel na tuberkulózu
 
 ### Dílo v kontextu autorovy tvorby
-
-Kam se dílo řadí v kontextu autorovi tvorby. Bylo napsané na počátku jeho tvorby nebo později a na jaké období se dělí tvorba autora.
+ - **Hold Katalánsku** (1938)
+   - popisuje zážitky ze španělské občanské války
+ - **Farma zvířat** (1945)
+ - **1984** (1948)
 
 ## Postavy
 
 ### Hlavní postavy 
+ - **Prase Napoleon**
+   - prase, které se ujme vedení nad statkem společně s Kulišem
+   - nejchytřejší ze všech, ale zneužívá toho ve svůj prospěch
+   - je prolhaný, bezohledný, pokrytecký a dokonce i zrádce
+   - představuje **Stalina**
+ - **Prase Pištík**
+   - prase, které podporuje Napoleona
+   - stejně jako on je prolhaný
+   - často se ohání smyšlenými výpočty či rovnicemi, aby oklamal zvířecí společnost
+   - dokáže manipulovat ostatními zvířaty
+   - překrucuje a mění pravdu, pozměňuje fakta
+ - **Prase Kuliš**
+   - Inteligentní prase, které vede společně s Napoleonem farmu do chvíle, než je poštváno divokými psy
+   - pravým opakem Napoleone
+   - je čestný, má dobré nápady
+   - přátelský ke zvířatům
+ - **Osel Benjamin**
+   - zůstává sám sebou, nezmanipulovatelný
+   - zná pravdu a tuší výsledky, ale nevidí žádné východisko
+   - svou aktivitu považuje za zbytečnou
+ - **Klisna Molina**
+   - ráda se parádí mašlemi
+ - **Kanec Major**
+   - představitel Lenina, inteligentní, starý a vážený vepř
+ - **Pan Jones**
+   - původní majitel farmy, alkoholik
+   - z pohledu zvířat je to zlý nezodpovědný pán
+ - **Psi**
+   - představují tajnou policii, která slepě plní rozkazy
+   - psi jsou věrní a poslušní svému pánovi
+ - **Koně Boxer a Lupina**
+   - představují pracující lidi, kteří by pro myšlenku budování vlastního státu, kde jsou si všichni rovní, obětovali vlastní život
+ - **Ovce**
+   - tupý dav
+   - bez přemýšlení opakují naučené fráze ("čtyřy nohy dobré, dvě špatné")
+   - svým sborovým, hlasitým opakování přehluší jakýkoli protinázor
+ - **Krkavec**
+   - představuje víru (křesťanství), které v totalitní společnosti ztrácí své místo, přesto se nedá zahubit
+ - **Lidé**
+   - představitelé kapitalistů, vykořisťovatelů
 
-### Vedlejší postavy
 
 ## Děj
  - **Časoprostor**
-   - kde a kdy se děj odehrává 
+   - anglická panská farma, čas neurčen
  - **Kompozice**
-   - jakým způsobem je děj složen v celek
+   - chronologická
+   - děj je členěn do 10 kapitol
+
+**antiutopie** = myšlenka fiktivní společnosti, která se vyvinula špatným směrem (má zásadní nedostatky)
 
 Děj se odehrává na farmě, kterou vlastní pan Jones. O zvířata se moc dobře nestaral (peníze propíjel v hospodě). Na farmě započne revoluce, kterou tak nějak celou organizují prasata. Vyženou lidi z farmy a je ustanoveno *sedm přikázání*, která se nesmí porušit. Potom se zvířata pustila do práce na statku. V čele farmy jsou dvě prasata: Kuliš a Napoleon, který se ujmul výchovy štěňat.
 
@@ -52,5 +112,5 @@ Prasata mají postupně větší a větší moc. Na farmě už to není o nic le
 
 ## Téma a motivy
  - **téma:**
-   - kniha poukazuje na to, jaký byl život za komunistického režimu
- - **motivy:**
+   - skrytá kritika komunistického režimu
+ - **motivy:** farma, zvířata, totalismus, rebelie, hloupost, manipulace, diktatura
