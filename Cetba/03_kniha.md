@@ -8,6 +8,8 @@ Autor: **Moliére** - Jean-Baptiste Poquelin
 
 ## Literární/obecně kulturní kontext
 
+ - **doba** = 2. pol 17. stol, 18. stol
+
 Moliére se řadí do období francouzského **klasicismu** a **osvícenství**. 
 
 ### Klasicismus
@@ -29,7 +31,13 @@ Moliére se řadí do období francouzského **klasicismu** a **osvícenství**.
    - zvůšené konzumaci tiskovin (knihy a noviny)
    - vzrůstající vlně **ateismu**
 
-### Jiní autoři z období klasicismu
+### Jiní autoři z období klasicismu a osvícenství
+ - **Francie**
+   - Jean de La Fontaine - *Bajky*
+   - Charles de Montesquieu - *Perské listy*
+ - **Anglie**
+   - Daniel Defoe - *Robinson Crusoe*
+   - Jonathan Swift - *Gulliverovy cesty*
 
 ## Informace o autorovi
  - francozský herec, spisovatel a dramatik z období francouzského klasicismu
@@ -81,9 +89,3 @@ Při hovoru se všechno změní - ukáže se, že Valér je ztracený bratr Mari
    - kritika chorobné touhy po penězích
    - člověk zaslepený touhou po bohatství nebere ohled na city ani lásku
  - **motivy:** chamtivost, sobeckost, láska, intriky
-
-## Jazykové prostředky
- - **přirovnání** - ve slovech je jeden jako druhý
- - **epiteton** - zapšklej staroch
- - **nadsázka** - To je konec, zavraždili mě! (slova Harpagona, když mu seberou peníze)
- - **personifikace** - nebe nebude tak skrblit

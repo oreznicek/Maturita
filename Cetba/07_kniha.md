@@ -2,11 +2,13 @@
 
 Autor: **Karel Hynek Mácha**
 
- - Literární druh - lyrika
+ - Literární druh - lyrika, epika
  - Literární žánr - lyrickoepická báseň
  - Forma literárního druhu - poezie
 
 ## Literární/obecně kulturní kontext
+
+ - **doba** = 1. pol. 19. stol.
 
 Karel Hynek Mácha byl nejvýznamnějším představitelem českého **romantismu**.
 

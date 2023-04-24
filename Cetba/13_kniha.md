@@ -8,7 +8,7 @@ Autor: **George Orwell**
 
 ## Literární/obecně kulturní kontext
 
-George Orwell byl anglický spisovatel píšící v **1. polovině 20. století**.
+ - **doba** = 1. pol. 20. stol.
 
 ### Jiní autoři z 1. pol. 20. století
  - **Německo**
@@ -112,5 +112,5 @@ Prasata mají postupně větší a větší moc. Na farmě už to není o nic le
 
 ## Téma a motivy
  - **téma:**
-   - skrytá kritika komunistického režimu
+   - skrytá kritika totalitních režimů (komunismu)
  - **motivy:** farma, zvířata, totalismus, rebelie, hloupost, manipulace, diktatura

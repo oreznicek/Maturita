@@ -8,9 +8,9 @@ Autor: **Nikolaj Vasiljevič Gogol**
 
 ## Literární/obecně kulturní kontext
 
-Gogol je považován za zakladatele **kritického realismu**.
+ - **doba** = 2. pol. 19. stol.
 
-V Rusku se prolínal romantismus s realismem.
+Gogol je považován za zakladatele **kritického realismu**. V Rusku se prolínal romantismus s realismem.
 
 ### Realismus
  - **pravdivý** obraz skutečnosti
@@ -73,8 +73,6 @@ V Rusku se prolínal romantismus s realismem.
    - statkáři z města
  - **Štěpán Iljič Štěnicyn**
    - policejní inspektor
-
-### Vedlejší postavy
 
 ## Děj
  - **Časoprostor**

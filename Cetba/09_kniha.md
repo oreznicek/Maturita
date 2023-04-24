@@ -8,13 +8,15 @@ Autor: **Jaroslav Vrchlický**
 
 ## Literární/obecně kulturní kontext
 
+ - **doba** = 70. a 80. léta 19. století
+
 Jaroslav Vrchlický se svou tvorbou řadil mezi **lumírovce**.
 
 ### Lumírovci
  - tzv. škola kosmopolitní
  - časopis **Lumír**
  - úsilí povznést českou literaturu na **světovou úroveň**
- - **vlastenectví** a důraz na domácí tradice
+ - důraz na vlastenectví a domácí tradice
  - zájem o venkov
  - chtěli uměleckou **svobodu**
 

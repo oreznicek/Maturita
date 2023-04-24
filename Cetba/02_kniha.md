@@ -8,27 +8,30 @@ Autor: **William Shakespeare**
 
 ## Literární/obecně kulturní kontext
 
+ - **doba**
+   - **Itálie** - 13. a 14. stol.
+   - **Francie** - 15. a 16. stol. 
+   - **Anglie** - 14. a 16. stol. (Shakespeare je 16. - 17.)
+
 Shakespearovu tvorbu bychom mohli považovat za vrcholné období anglické **renesance**. Lidé sympatizovali s myšlenkami **humanismu**.
 
 ### Znaky renesance a humanismu
+ - la renaissance = znovuzrození
+ - humanus = lidský
  - návrat k antické kultuře
  - na místo boha se stavělo poznávání člověka
 
 ### Jiní autoři z období humanismu a renesance
  - **Anglie**
-   - Geoffrey Chaucer
-   - Christopher Marlow
+   - Geoffrey Chaucer - *Cantenburské povídky*
  - **Španělsko**
-   - Miguel de Cervantes
-   - Lope de Vega
+   - Miguel de Cervantes - *Důmyslný rytíř don Quijote de la Mancha*
  - **Francie**
-   - Francois Villon
-   - Francois Rabelais
-   - Pierre de Ronsard
+   - Francois Villon - básně *Malý testament* a *Velký testament*
  - **Itálie**
-   - Dante Alighieri
-   - Francesco Petrarca
-   - Giovanni Boccaccio
+   - Dante Alighieri - *Božská komedie*
+   - Francesco Petrarca - *Sonety Lauře*
+   - Giovanni Boccaccio - *Dekameron*
 
 ## Informace o autorovi
  - básník, dramatik a divadelní herec
@@ -83,10 +86,3 @@ Nápoj ji uspí a Julie vypadá jako mrtvá. O jejím pohřbu se dozví i Romeo,
  - **téma:** nešťastný osud dvou milenců
  - **motivy:** láska, válka dvou rodů, rozhodování o vlastním osudu
  - **myšlenka:** autor poukazuje na to, aby mladí lidé bojovali o své právo na lásku, štěstí a právo rozhodovat o vlastním osudu
-
-## Jazykové prostředky
- - **přirovnání** - Smrt leží na ní jako krutý mráz
- - **oxymóron** - Ledový ohni
- - **metafora** - Láska je dým, jímž vánek vzdechů točí
- - **personifikace** - Na noc se usmál modrooký den
- - **epizeuxis** - To není, není rozbřesk

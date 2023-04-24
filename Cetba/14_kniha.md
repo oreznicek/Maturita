@@ -8,7 +8,18 @@ Autor: **Alexandr Solženicyn**
 
 ## Literární/obecně kulturní kontext
 
-Alexandr Solženicyn byl spisovatelem v 2. polovině 20. století.
+ - **doba** = 2. pol. 20. stol.
+
+### Jiní autoři z období 2. pol. 20. století
+ - **Existencialismus**
+   - Albert Camus - *Cizinec*
+   - Jean-Paul Sartre - *Zeď* 
+ - **Beatníci**
+   - Allen Ginsberg - *Kvílení*
+   - Jack Keruac - *Na cestě*
+   - Charles Bukowski - *Hollywood*
+ - **Postmodernismus**
+   - Umberto Eco - *Jméno růže*
 
 ## Informace o autorovi
 
@@ -18,7 +29,7 @@ Alexandr Solženicyn (1918-2008)
  - Roku 1970 obdržel **Nobelovu cenu** za literaturu
  - Bojoval v **2. sv. válce**
  - Byl důstojníkem dělostřelectva Rudé armády a dvakrát byl vyznamenán za statečnost
- - V roce 1983 obdržel Solženicyn Templetonovu cenu
+ - V roce 1983 obdržel Solženicyn **Templetonovu cenu**
  - strávil několik let v pracovních táborech za kritiku J. V. Stalina
    - v různých táborech strávil celkem 8 let
 
@@ -35,8 +46,8 @@ Alexandr Solženicyn (1918-2008)
    - je **odsouzen na 10 let** 
    - není však zoufalý ani sebelítostný, ba dokonce si nedovede představit život mimo tábor
    - je to člověk zocelený vlastním utrpením
-   - je to nesmírně prostý člověk, který si zachovává své zásadyi v takovém prostředí jako je trestanecký tábor
-   - i za naprostého bezpráví dokáže projevovat radost z dobře odvedené práce
+   - je to nesmírně **prostý člověk**, který si zachovává své zásady i v takovém prostředí jako je trestanecký tábor
+   - i za naprostého bezpráví dokáže projevovat **radost z dobře odvedené práce**
    - je to ostřílený táborový mazák, který ví, jak a kde si může přilepšit a na koho je lepší si dát pozor  
    - Jeho táborové číslo je: Šč - 854
 
@@ -79,4 +90,4 @@ Jde o popis jednoho obyčejného dne Ivana Děnisoviče Šuchova, vězně v gula
  - **téma:**
    - kniha vyobrazuje jak to fungovalo v pracovních táborech na Sibiři
    - poukazuje na nesmyslnost trestů za naprosto banální prohřešky
- - **motivy:**
+ - **motivy:** chlad, gulag, kamarádství

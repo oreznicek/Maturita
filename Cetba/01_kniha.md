@@ -8,6 +8,11 @@ Autor: **William Shakespeare**
 
 ## Literární/obecně kulturní kontext
 
+ - **doba**
+   - **Itálie** - 13. a 14. stol.
+   - **Francie** - 15. a 16. stol. 
+   - **Anglie** - 14. a 16. stol. (Shakespeare je 16. - 17.)
+
 Shakespearovu tvorbu bychom mohli považovat za vrcholné období anglické **renesance**. Lidé sympatizovali s myšlenkami **humanismu**.
 
 ### Znaky renesance a humanismu
@@ -16,24 +21,15 @@ Shakespearovu tvorbu bychom mohli považovat za vrcholné období anglické **re
 
 ### Jiní autoři z období humanismu a renesance
  - **Anglie**
-   - Geoffrey Chaucer
+   - Geoffrey Chaucer - *Cantenburské povídky*
  - **Španělsko**
-   - Miguel de Cervantes
-     - Důmyslný rytíř don Quijote de la Mancha
+   - Miguel de Cervantes - *Důmyslný rytíř don Quijote de la Mancha*
  - **Francie**
-   - Francois Villon
-     - básně Malý testament a Velký testament
+   - Francois Villon - básně *Malý testament* a *Velký testament*
  - **Itálie**
-   - Dante Alighieri
-     - Božská komedie
-   - Francesco Petrarca
-     - Sonety Lauře (milostné verše věnované jedné ženě)
-   - Giovanni Boccaccio
-     - Dekameron
-       - soubor 100 novel
-       - útěk mladých lidí z Francie před morem
-       - cestou si vypravují příběhy
-       - světská témata (láska, nevěra)
+   - Dante Alighieri - *Božská komedie*
+   - Francesco Petrarca - *Sonety Lauře*
+   - Giovanni Boccaccio - *Dekameron*
 
 ## Informace o autorovi
  - básník, dramatik a divadelní herec
@@ -94,10 +90,3 @@ Mezitím se ze zoufalství nad smrtí otce Ofélie utopila. Poloniův syn Laerte
 ## Téma a motivy
  - **téma**: náprava neodpustitelného hříchu
  - **motivy**: pomsta, lest, šílenství, pokrytectví, jed, zrada, nenávist, úvahy o smyslu života
-
-## Jazykové prostředky
- - **přirovnání** - Mně se zdá, že vypadá jako lasička
- - **epizeuxis** - Matko, matko, matko!
- - **kontrast** - od nejhlubší noty až po nejvyšší tón
- - **epiteton** - bouřlivý zápas
- - **symbol** - krysa

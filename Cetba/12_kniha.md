@@ -8,7 +8,9 @@ Autor: **Ernest Hemingway**
 
 ## Literární/obecně kulturní kontext
 
-Ernest Hemingway psal v 1. polovině 20. století a řadí se do **ztracené generace**.
+- **doba** = 1. pol. 20. stol.
+
+Ernest Hemingway se řadí do **ztracené generace**.
 
 ### Ztracená generace
  - autoři, kteří reagují na 1. světovou válku

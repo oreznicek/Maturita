@@ -8,6 +8,8 @@ Autor: **Guy de Maupassant**
 
 ## Literární/obecně kulturní kontext
 
+ - **doba** = 2. pol. 19. stol.
+
 Maupassant je představitelem francouzského **realismu**.
 
 ### Realismus
@@ -48,8 +50,6 @@ Guy de Maupassant (1850 - 1893)
  - **Slečna Fifi** (1882)
  - **Miláček** (1885)
    - román o pařížském novináři, který k rychlému vzestupu bezohledně využívá žen
- - **Petr a Jan** (1887)
- - **Silná jako smrt** (1888-1889)
 
 ## Postavy
 

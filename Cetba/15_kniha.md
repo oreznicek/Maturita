@@ -8,6 +8,8 @@ Autor: **Viktor Dyk**
 
 ## Literární/obecně kulturní kontext
 
+ - **doba** = přelom 19. a 20. stol.
+
 Viktyr Dyk byl představitelem **anarchistických buřičů**.
 
 ### Anarchističtí buřiči

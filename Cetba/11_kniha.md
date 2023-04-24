@@ -8,7 +8,9 @@ Autor: **Romain Rolland**
 
 ## Literární/obecně kulturní kontext
 
-Romain Rolland psal v období 1. poloviny 20. století. Zaměřoval se na tvorbu **protiválečných děl**. Dost se svou tvorbou podobá tzv. **ztracené generaci**.
+- **doba** = 1. pol. 20. stol.
+
+Zaměřoval se na tvorbu **protiválečných děl**. Dost se svou tvorbou podobá tzv. **ztracené generaci**.
 
 ### Jiní autoři z 1. pol 20. století
  - **Německo**

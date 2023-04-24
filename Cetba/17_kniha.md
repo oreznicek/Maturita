@@ -28,21 +28,15 @@ Psal v období po 2. sv. válce.
 
 Ladislav Fuks psal psychologické romány. Častá byla u něj také židovská tématika. Ačkoli sám nepatřil k židovskému národu, měl v sobě spoustu empatie a tolerance k druhým, k čemuž jistě přispěla výraznou měrou i jeho sexuální odlišnost.
 
-Fuksovu tvorbu můžeme rozdělit do dvou období:
-
- 1. Šedesátá léta
-    - **Pan Theodor Mudstock** (1963) - psychologický román (prvotina)
-	  - psycho horror, tragikomické situace
-	  - Židovský úředník, který se brání z úzkosti z ohrožení nacismem absurdním systémem příprav na transport do koncentračního tábora
-	  - Nakonec ho porazí auto a do koncentračního tábora se vůbec nedostane
-	  - Román zobrazuje, že člověk se nikdy nemůže zcela připravit na to, co nám osud přichystá
-	- **Spalovač mrtvol** (1967)
- 2. Sedmdesátá léta
-    - tvorba byla ovlivněna vlivy normalizace a jeho socialistickým smýšlením, za což byl dost kritizován.
-	- **Návrat z žitného pole** (1974) 
-	  - Dílo o poúnorové emigraci (antiemigrační)
-	- **Křišťálový pantoflíček** (1978)
-	  - Idylické vyprávění o dětství Julia Fučíka (novinář, zabit nacisty, představitel komunismu)
+ - **Pan Theodor Mudstock** (1963) - psychologický román (prvotina)
+   - psycho horror, tragikomické situace
+   - Židovský úředník, který se brání z úzkosti z ohrožení nacismem absurdním systémem příprav na transport do koncentračního tábora
+   - Nakonec ho porazí auto a do koncentračního tábora se vůbec nedostane
+   - Román zobrazuje, že člověk se nikdy nemůže zcela připravit na to, co nám osud přichystá
+ - **Spalovač mrtvol** (1967)
+   - tvorba byla ovlivněna vlivy normalizace a jeho socialistickým smýšlením, za což byl dost kritizován.
+ - **Návrat z žitného pole** (1974) 
+ - **Křišťálový pantoflíček** (1978)
 
 ## Postavy
 
@@ -86,12 +80,9 @@ S příchodem Protektorátu se začíná měnit, stává se z něj udavač a nak
 Ve chvíli, kdy se chystá vzít i svou dceru na prohlídku krematoria, kde by ji zabil, jej muži v bílém odvedou do sanitky. Poslední scéna se odehrává po skončení války v sanitním vlaku, kde je Kopfrkingl šťastný, že všechny spasil.
 
 ## Téma a motivy
- - **téma:** zachycuje duševní rozpad jedince pod vlivem nacistické ideologie
+ - **téma:**
+   - zachycuje duševní rozpad jedince pod vlivem nacistické ideologie
  - **motivy:**
    - mladá růžolící dívka v černých šatech
    - tlustý mužík s červeným motýlkem
    - starší žena a její muž, který vždy po jejich rozhovoru říká, že jí nechá zavřít do blázince (komický prvek)
-
-## Jazykové prostředky
- - **epiteton** - nadoblačná
- - **symbol/metafora/eufemismus** - Chrám smrti 

@@ -3,24 +3,30 @@
 Autor: **Antoine Francois Prévost**
 
  - Literární druh: epika
- - Literární žánr: román/novela
+ - Literární žánr: román
  - Format literárního druhu: próza
 
 ## Literární/obecně kulturní kontext
 
-Prévost psal v období **preromantismu**, což byl umělecký směr v druhé polovině 18. století. Vážil si citových hodnot venkovského člověka. Věřil, že člověk je od přírody dobrý a jen příroda ho ponechá svobodného a v přirozeném stavu, zatímco civilizace jej kazí.
+ - **doba** = 2. pol. 18. stol
+
+Antoine Francois Prévost psal v období **preromantismu**.
 
 ### Hlavní znaky preromantismu
  - reakce na **klasicismus** a **osvícenství**
  - důraz na cit
  - vzor v prostém člověku (prostý způsob života)
  - návrat k přírodě
+ - člověk je od přírody dobrý, ale civilizace jej kazí
 
 ### Jiní autoři z období preromantismu
  - **Francie**
-   - Jean Jacques Rousseau
+   - Jean Jacques Rousseau - *Emil*
  - **Německo**
-   - Johann Wolfgang Goethe
+   - Johann Wolfgang Goethe - *Faust*
+   - Friedrich Schiller - *Loupežníci*
+ - **Rusko**
+   - Ivan Andrejevič Krylov- *Bajky*
 
 ## Informace o autorovi
  - Francouzský spisovatel, novinář, historik, překladatel a romanopisec
@@ -28,7 +34,11 @@ Prévost psal v období **preromantismu**, což byl umělecký směr v druhé po
  - Dílo Manon Lescaut bylo krátce po publikaci ve Francii díky své kontroverznosti zakázáno
 
 ### Dílo v kontextu autorovi tvorby
-Dílo Manon Lescaut napsal v podstatě na počátku svoji tvorby a zůstala jeho nejvýznamnějším dílem. Manon Lescaut byla také později interpretována v divedelní hře od **Vítězslava Nezvala**.
+Dílo Manon Lescaut napsal v podstatě na počátku svoji tvorby a zůstala jeho nejvýznamnějším dílem. Manon Lescaut byla také později interpretována v divadelní hře od **Vítězslava Nezvala**.
+
+ - Psal **autobiografický román** - *Memoires et aventures d'un homme de qualité qui s'est retiré de monde*
+
+ - **Manon Lescaut** vyšla jako 7. díl tohoto románu
 
 ## Postavy
 
@@ -74,9 +84,3 @@ Po mnoha další peripetiích je Manon odsouzena k vyhoštění do Ameriky. Ryt�
  - **téma:** osudová láska
  - **motivy:** láska, zrada, bohatství x chudoba, smrt
  - **myšlenka:** láska k penězům může někdy převažovat nad tou lidskou
-
-## Jazykové prostředky
- - **epiteton** - staromódních dvorných lichotek
- - **archaismus** - dvorných (pěkný, krásný)
- - **přirovnání** - Příroda nevytvořila srdce téhož druhu, jako je mé srdce
- - **řečnická otázka** - Co mi brání, abych se neuchýlil do samoty? Toliko něžné přátelství, které kvám chovám.
