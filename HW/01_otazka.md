@@ -282,7 +282,7 @@ Spojová a fyzická dohromady tvoří vrstvu síťového přístupu
 ## Šířka pásma
  - Šířka pásma je kapacita, na které může médium přenášet data
  - Šířka digitálního pásma měří množství dat, která mohou proudit z jednoho místa na druhé za daný čas
- - Obvykle se udává v kb/s, Mb/s nebo Gb/s
+ - Udává se v Hz (frekvence)
 
 Prakticky šířku pásma určuje kombinace několika faktorů:
  - Vlastnosti fyzického média

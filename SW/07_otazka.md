@@ -1,8 +1,6 @@
 # 7 - Podprogramy
 podprogramy, funkce, delegáty, lambda operátory
 
-asynchronní funkce, yield return, Task, ?
-
 ## 1. Podprogram
  - Podprogram je blok kódu, který obsahuje řadu příkazů. Ty se spustí zavoláním podprogramu.
  - Podprogram může mít **parametry**, které určují, s jakými daty má pracovat

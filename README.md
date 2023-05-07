@@ -29,8 +29,8 @@
  26. - [ ]  [Výstupní zařízení PC](./HW/26_otazka.md)
 
 ## PRG a WEB (SW)
- 1. - [ ]  [Základní programové konstrukce](./SW/01_otazka.md)
- 2. - [ ]  [Algoritmus, algoritmická složitost](./SW/02_otazka.md)
+ 1. - [x]  [Základní programové konstrukce](./SW/01_otazka.md)
+ 2. - [x]  [Algoritmus, algoritmická složitost](./SW/02_otazka.md) (P a NP problémy)
  3. - [ ]  [Strukturované datové typy](./SW/03_otazka.md)
  4. - [ ]  [Spojové struktury](./SW/04_otazka.md)
  5. - [ ]  [Objektové programování I](./SW/05_otazka.md)

@@ -2,8 +2,8 @@
 
 ## 1. Správa verzí
 
- - Systém, který zaznamenává změny souboru nebo sady souborů v průbéhu času, a uživatel tak může kdykoli obnovit jeho/jejich konkrétní verzi
- - VCS = Version Control System
+ - **VCS** = Version Control System
+ - Systém, který zaznamenává změny jednoho nebo více souborů v průběhu času
  - Umožňuje vrátit jednotlivé soubory nebo celý projekt do předchozího stavu, porovnávat změny provedené v průběhu času a mnoho dalšího
  - Pokud používáte verzovací systém, většinou také snadno obnovíte soubory, které jste ztratili nebo v nichž byly provedeny nežádoucí změny
 
@@ -14,8 +14,8 @@
  - Jedním z velmi oblíbených nástrojů byl systém s názvem **rcs**
 
 ### 2.2 Centralizované (Obr 1.2)
- - Důvod vzniku => potřeba spolupráce s dalšími pracovníky týmu
- - CVCS = Centralized Version Control System
+ - **CVCS** = Centralized Version Control System
+ - **Důvod vzniku** => potřeba spolupráce s dalšími pracovníky týmu
  - Příkladem takového systému může být: CVS, Subversion nebo Perforce
  - Tyto systémy obsahují serverovou část, která uchovává všechny verzované soubory
  - Z tohoto centrálního úložiště si potom soubory stahují jednotliví klienti
@@ -23,7 +23,7 @@
  - Když se něco porouchá a nebyla provedena záloha serveru, dojde ke ztrátě všech dat
 
 <div align="center">
-    <img width="50%" alt="Obr 1.1" src="./img/12_obr_1-1.png">
+    <img width="70%" alt="Obr 1.1" src="./img/12_obr_1-1.png">
 </div>
 
 ### 2.3 Distribuované (Obr 1.3)
@@ -37,7 +37,7 @@
    - Také si můžete vytvořit **několik pracovních postupů**, což v centralizovaných systémech není možné
 
 <div align="center">
-    <img width="50%" alt="Obr 1.3" src="./img/12_obr_1-3.png">
+    <img width="70%" alt="Obr 1.3" src="./img/12_obr_1-3.png">
 </div>
 
 ## 3. Systém Git
