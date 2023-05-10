@@ -63,7 +63,6 @@
 
 ## 4. Rozdíl mezi konceptuálním a logickým modelem databáze
  - Důležité je vědět rozdíl mezi konceptuálním a logickým modelem
- - Je to také jedna z věcí, na kterou se dá poukázat při zkoušení
 
 ### 4.1 Konceptuální databázový model
  - Vysoká úroveň reprezentace dat a jejich vztahů

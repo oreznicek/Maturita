@@ -48,10 +48,12 @@ Obecně OLAP je optimalizován na ukládání velkého množství dat a na reali
 		<tr>	
 			<td>2</td>
 			<td>John Doe</td>
-			<td>734 434 289</td>
+			<td>734 434 289, 777 888 333</td>
 		</tr>
 	</tbody>
 </table>
+
+Po úpravě → dvě tabulky
 
 <table>
 	<thead>
@@ -74,3 +76,51 @@ Obecně OLAP je optimalizován na ukládání velkého množství dat a na reali
 		</tr>
 	</tbody>
 </table>
+
+<table>
+	<thead>
+		<tr>
+			<th>PK</th>
+			<th>FK</th>
+			<th>Telefon</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>	
+			<td>1</td>
+			<td>1</td>
+			<td>487 876 453</td>
+		</tr>
+		<tr>	
+			<td>2</td>
+			<td>2</td>
+			<td>734 434 289</td>
+		</tr>
+		<tr>	
+			<td>3</td>
+			<td>2</td>
+			<td>777 888 333</td>
+		</tr>
+	</tbody>
+</table>
+
+### 2. Normální forma
+ - Databáze je v 2. NF když je v 1. NF a všechny neklíčové atributy závisí na celém složeném klíči (ne jen na jeho části)
+
+<div align="center">
+	<img src="./img/2NF.png" width="80%" />
+</div>
+
+### 3. Normální forma
+ - Databáze je ve 3. NF, pokud je v 2. NF, a všechy neklíčové atributy jsou navzájem nezávislé (jsou závislé pouze na klíči ne navzájem)
+
+<div align="center">
+	<img src="./img/3NF.png" width="80%" />
+</div>
+
+### Boyceho-Coddova normální forma
+ - Atributy, které jsou součástí primárního klíče musí být navzájem nezávislé
+
+<div align="center">
+	<img src="./img/BCNF.png" width="80%" />
+</div>

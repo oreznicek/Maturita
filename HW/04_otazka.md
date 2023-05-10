@@ -1,10 +1,14 @@
 # 4 - Referenční model OSI/ISO a síťové prvky
+ - Protokol, rozhraní, popis a funkce jenotlivých vrstev, PDU, zapouzdřování, porovnání s modelem TCP/IP, průchod dat přes síťové prvky, kategorie přepínačů pro jednotlivé vrstvy, nástroje pro zachycování dat v síti, testování a oprava problémů v síti
+ - Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 switche, firewallu
 
-Model reprezentuje nějaké operace, které provádíme v síti.
-
-OSI model popisuje, co je třeba udělat na konkrétní vrstvě, ale už nám neříká, jak bychom toho měli dosáhnout.
-
-Taky popisuje interakci každé vrstvy s její horní a dolní sousedící vrstvou.
+## Model OSI/ISO
+ - Open System Interconnection
+ - International Organization for Standardization
+ - Model reprezentuje nějaké operace, které provádíme v síti.
+ - OSI model popisuje, co je třeba udělat na konkrétní vrstvě, ale už nám neříká, jak bychom toho měli dosáhnout.
+ - Taky popisuje interakci každé vrstvy s její horní a dolní sousedící vrstvou.
+ - změna na konkrétní vrstvě by neměla ovlivnit ostatní vrstvy
 
 <table>
 	<thead>
@@ -66,7 +70,7 @@ V aplikační vrstvě máme jenom data a postupným sestoupením vrstvami dolů 
 Vrstvami nahoru se zase všechny zbytečné informace zahodí a zůstanou pouze data. Tento proces se nazývá **de-enkapsulace**.
 
 ## 1. Fyzická vrstva
- - Fyzická vrstva je zodpovědná za fyzický přenost dat po síti
+ - Fyzická vrstva je zodpovědná za fyzický přenos dat po síti
  - Poskytuje prostředky pro odeslání a přijetí dat přes **fyzické médium**
  - Převádí bity na signál
    - elektrický, optický
@@ -76,7 +80,7 @@ Vrstvami nahoru se zase všechny zbytečné informace zahodí a zůstanou pouze 
  - **Mechanické vlastnosti**
    - tvar, velikost, zapojení konektorů
 
-### 1.1 Síťové prvky
+### Síťové prvky
  - **Modem**
    - "modulátor demodulátor"
    - přenost digitálních dat pomocí analogové přenosové trasy
@@ -89,24 +93,62 @@ Vrstvami nahoru se zase všechny zbytečné informace zahodí a zůstanou pouze 
  - Zajišťuje komunikaci mezi dvěma nebo více uzly propojenými tímtéž datovým spojem
    - Může se jednat o dvoubodovou komunikaci (sériová linka)
    - Nebo mnohabodovou komunikaci (Ethernet)
- - Dělí se na dvě podvrstvy
-   - Logical Link Control (LLC)
-   - Media Access Control (MAC)
 
-### 2.1 Logical Link Control (LLC)
+### Logical Link Control (LLC)
  - přidává do rámce informaci o network layer protokolu
+ - umožňuje, aby se v jedné síti mohlo používát několik síťových protokolů
+   - IPv4, IPv6, AppleTalk
+ - funguje jako rozhraní mezi síťovou vrstvou a MAC podvrstvou
+ - IEEE 802.2
 
-### 2.2 Media Access Control (MAC)
- - je odpovědná za enkapsulaci dat a řízení přístupu k médiím
- - přidává zdrojovou a cílovou fyzickou adresu do rámce
- - přidává trailer do rámce (detekce chyb přenosu)
+### Media Access Control (MAC)
+ - je odpovědná za enkapsulaci dat a media access control
+   - media access control určuje způsob přenosu dat přes nějaké médium (např. kabel)
+ - přidává zdrojovou a cílovou MAC adresu do rámce
+ - přidává trailer do rámce (pro detekci chyb)
 
 Media Access Control je něco jako policy, která zajišťuje aby nedošlo ke kolizi a usnadnil se přenos datových paketů mezi koncovými zařízeními
 
-#### 2.2.1 MAC Metody
+#### MAC Metody
  - **CSMA/CA** - Carrier sense multiple access with collision avoidance
+   - WLAN - bezdrát
  - **CSMA/CD** - Carrier sense multiple access with collision detection
+   - LAN - drát
+
+### Síťové prvky
+ - **Bridge**
+   - snižuje velikost kolizní domény
+   - umí číst a zapisovat MAC adresy (CAM tabulka)
+   - odešle packet do druhé části síťě jen když se tam nachází příjemce
+     - týká se jen unicastu
+	 - multicast a brodcast pošle bez omezení
+ - **Switch** (přepínač)
+   - CAM tabulka (spojuje MAC adresy se zdrojovými porty)
+ - **Acess Point (AP)**
+   - převádí standard 802.11 na 802.3
+   - umožňuje přístup do síťe bezdrátovým zařízením
 
 ## 3. Síťová vrstva
  - Identifikuje a adresuje jednotlivé počítače v síti pomocí logických adres (např. IP adres)
- - Zajišťuje trasování datových paketů mezi počítači v síti, tedy volbu nejlepší cesty pro přenos dat
+ - přidává zdrojovou a cílovou logickou (IP) adresu do PDU
+ - Směrování
+   - komunikace může probíhat mezi různými sítěmi
+   - volba nejlepší cesty pro přenos dat
+
+### Protokoly
+ - **IPv4**
+ - **IPv6**
+ - **AppleTalk**
+
+### Charakteristika IP
+ - low overhead protokol
+ - poskytuje jen funkce potřebné k doručení ze zdroje k cíli
+ - **connectionless**
+   - není navázáno žádné spojení před odesláním paketů
+   - (posíláme dopis bez oznámení)
+ - **best effort**
+   - není zaručeno doručení (nespolehlivé)
+   - pakety tak můžou dorazit poškozené, v jiném pořadí nebo vůbec
+ - **media independent** - není závislé na médiu
+
+## 4. Transportní vrstva

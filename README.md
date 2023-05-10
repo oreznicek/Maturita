@@ -1,9 +1,11 @@
 # Maturitní otázky 2023
 
-## MIT a OPS (HW)
+## Hardware
+
+### OPS
  1. - [x]  [Vrstva síťového přístupu, Ethernet](./HW/01_otazka.md)
- 2. - [ ]  [Aplikační vrstva TCP/IP](./HW/02_otazka.md)
- 3. - [ ]  [Síťový operační systém - Linux](./HW/03_otazka.md)
+ 2. - [x]  [Aplikační vrstva TCP/IP](./HW/02_otazka.md)
+ 3. - [x]  [Síťový operační systém - Linux](./HW/03_otazka.md)
  4. - [ ]  [Referenční model OSI/ISO a síťové prvky](./HW/04_otazka.md)
  5. - [ ]  [VLAN, Inter-VLAN, návrh podnikové sítě](./HW/05_otazka.md)
  6. - [ ]  [Spolehlivá síť - STP, EtherCChannel, FHRP](./HW/06_otazka.md)
@@ -14,6 +16,8 @@
  11. - [ ]  [Zabezpečení komunikace, ACL](./HW/11_otazka.md)
  12. - [ ]  [Směrování, směrovací tabulky, směrovací protokoly](./HW/12_otazka.md)
  13. - [ ]  [Problematika bezpečnosti počítačových sítí](./HW/13_otazka.md)
+
+### MIT
  14. - [ ]  [Mikrokontroléry (mcu) - základní pojmy](./HW/14_otazka.md)
  15. - [ ]  [Připojování externích periferií k mcu](./HW/15_otazka.md)
  16. - [ ]  [Čítačové podsystémy mcu](./HW/16_otazka.md)
@@ -28,7 +32,9 @@
  25. - [ ]  [Grafické karty](./HW/25_otazka.md)
  26. - [ ]  [Výstupní zařízení PC](./HW/26_otazka.md)
 
-## PRG a WEB (SW)
+## Software
+
+### PRG
  1. - [x]  [Základní programové konstrukce](./SW/01_otazka.md)
  2. - [x]  [Algoritmus, algoritmická složitost](./SW/02_otazka.md) (P a NP problémy)
  3. - [ ]  [Strukturované datové typy](./SW/03_otazka.md)
@@ -41,8 +47,10 @@
  10. - [ ]  [Paralelní programování](./SW/10_otazka.md)
  11. - [ ]  [Architektury .NET](./SW/11_otazka.md)
  12. - [ ]  [Verzovací systémy](./SW/12_otazka.md)
- 13. - [ ]  [Konceptuální návrh databáze](./SW/13_otazka.md)
- 14. - [ ]  [Normalizace databáze](./SW/14_otazka.md)
+
+### WEB
+ 13. - [x]  [Konceptuální návrh databáze](./SW/13_otazka.md)
+ 14. - [x]  [Normalizace databáze](./SW/14_otazka.md)
  15. - [ ]  [Jazyk SQL](./SW/15_otazka.md)
  16. - [ ]  [Výběr dat v SQL](./SW/16_otazka.md)
  17. - [ ]  [Prostředky pro návrh webových aplikací](./SW/17_otazka.md)
