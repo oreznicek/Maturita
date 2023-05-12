@@ -6,8 +6,8 @@
  1. - [x]  [Vrstva síťového přístupu, Ethernet](./HW/01_otazka.md)
  2. - [x]  [Aplikační vrstva TCP/IP](./HW/02_otazka.md)
  3. - [x]  [Síťový operační systém - Linux](./HW/03_otazka.md)
- 4. - [ ]  [Referenční model OSI/ISO a síťové prvky](./HW/04_otazka.md)
- 5. - [ ]  [VLAN, Inter-VLAN, návrh podnikové sítě](./HW/05_otazka.md)
+ 4. - [x]  [Referenční model OSI/ISO a síťové prvky](./HW/04_otazka.md)
+ 5. - [x]  [VLAN, Inter-VLAN, návrh podnikové sítě](./HW/05_otazka.md) (Návrh podnikové sítě)
  6. - [ ]  [Spolehlivá síť - STP, EtherCChannel, FHRP](./HW/06_otazka.md)
  7. - [x]  [Sítě standardu IEEE 802.11](./HW/07_otazka.md)
  8. - [ ]  [Protokol TCP, UDP](./HW/08_otazka.md)
@@ -37,8 +37,8 @@
 ### PRG
  1. - [x]  [Základní programové konstrukce](./SW/01_otazka.md)
  2. - [x]  [Algoritmus, algoritmická složitost](./SW/02_otazka.md) (P a NP problémy)
- 3. - [ ]  [Strukturované datové typy](./SW/03_otazka.md)
- 4. - [ ]  [Spojové struktury](./SW/04_otazka.md)
+ 3. - [x]  [Strukturované datové typy](./SW/03_otazka.md)
+ 4. - [x]  [Spojové struktury](./SW/04_otazka.md)
  5. - [ ]  [Objektové programování I](./SW/05_otazka.md)
  6. - [ ]  [Objektové programování II](./SW/06_otazka.md)
  7. - [ ]  [Podprogramy](./SW/07_otazka.md)
@@ -46,7 +46,7 @@
  9. - [ ]  [Návrhové vzory II](./SW/09_otazka.md)
  10. - [ ]  [Paralelní programování](./SW/10_otazka.md)
  11. - [ ]  [Architektury .NET](./SW/11_otazka.md)
- 12. - [ ]  [Verzovací systémy](./SW/12_otazka.md)
+ 12. - [x]  [Verzovací systémy](./SW/12_otazka.md)
 
 ### WEB
  13. - [x]  [Konceptuální návrh databáze](./SW/13_otazka.md)
