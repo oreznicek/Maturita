@@ -64,6 +64,11 @@
  - podporuje Voice over IP (VoIP)
  - přenos přes tuto VLAN je prioritní
 
+## IEEE 802.1Q
+ - protokol, který přidává do Ethernetových rámců podporu VLAN
+ - umožňuje tzv. **VLAN tagging**
+ - rámec tedy v sobě uchovává informaci o VLAN ID
+
 ## Inter-VLAN routing
 
 ### Legacy
