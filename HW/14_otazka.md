@@ -28,6 +28,8 @@
 
 ## Architektury
 
+ - počítače existovali, ale byli jednoúčelové
+
 ### Von Neumannova architektura
  - **Společná paměť programu a dat**
  - Architektura výpočetního systému
@@ -62,3 +64,26 @@ Příkladem harvardské architektury je **L1 cache**, která je rozdělena na in
  - RISC
 
 ## Hlavní vlastnosti mikrokontrolérů Atmel AVR
+ - 8 bitová **harvardská RISC architektura**
+ - jedna z prvních rodin MCU, která použila **flash paměť** jako PM
+ - **PM** → Flash (paměť programu)
+ - **DM** → EEPROM (trvalá paměť dat)
+ - **Cache** → SRAM  (paměť dat)
+
+### Příznakový registr
+ - status register
+ - obsahuje informace o výsledku aritmetických operací
+
+#### Příznaky
+ - **I** - globální povolení přerušení
+ - **T** - jednobitová paměť
+ - **HC** - příznak polovičního přenosu (BCD kód)
+ - **S** - (N xor V) - příznak znaménka
+ - **V** - aritmetické přetečení
+ - **N** - záporný výsledek
+ - **Z** - nulový výsledek
+ - **C** - přenos do vyššího řádu
+   
+## Popis blokového schématu 
+
+<img src="./img/ATmega64_schema.png" />

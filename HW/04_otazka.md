@@ -73,12 +73,7 @@ Vrstvami nahoru se zase všechny zbytečné informace zahodí a zůstanou pouze 
  - Fyzická vrstva je zodpovědná za fyzický přenos dat po síti
  - Poskytuje prostředky pro odeslání a přijetí dat přes **fyzické médium**
  - Převádí bity na signál
-   - elektrický, optický
- - Definuje elektrické a mechanické vlastnosti rozhraní
- - **Elektrické vlastnosti**
-   - napěťové úrovně, modulace, rychlosti
- - **Mechanické vlastnosti**
-   - tvar, velikost, zapojení konektorů
+ - série bitů, které jsou interpretované **fyzikálním způsobem** (napětí, frekvence, ...)
 
 ### Síťové prvky
  - **Modem**
@@ -95,6 +90,7 @@ Vrstvami nahoru se zase všechny zbytečné informace zahodí a zůstanou pouze 
    - Nebo mnohabodovou komunikaci (Ethernet)
 
 ### Logical Link Control (LLC)
+ - je řešená driverem síťové karty
  - přidává do rámce informaci o network layer protokolu
  - umožňuje, aby se v jedné síti mohlo používát několik síťových protokolů
    - IPv4, IPv6, AppleTalk
@@ -102,6 +98,7 @@ Vrstvami nahoru se zase všechny zbytečné informace zahodí a zůstanou pouze 
  - IEEE 802.2
 
 ### Media Access Control (MAC)
+ - je řešená síťovou kartou
  - je odpovědná za enkapsulaci dat a media access control
    - media access control určuje způsob přenosu dat přes nějaké médium (např. kabel)
  - přidává zdrojovou a cílovou MAC adresu do rámce

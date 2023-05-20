@@ -11,15 +11,15 @@
  6. - [x]  [Spolehlivá síť - STP, EtherCChannel, FHRP](./HW/06_otazka.md)
  7. - [x]  [Sítě standardu IEEE 802.11](./HW/07_otazka.md)
  8. - [x]  [Protokol TCP, UDP](./HW/08_otazka.md)
- 9. - [ ]  [Adresace v internetu, cesta datagramu sítí](./HW/09_otazka.md)
- 10. - [ ]  [Protokol IPv6, NDP](./HW/10_otazka.md)
+ 9. - [x]  [Adresace v internetu, cesta datagramu sítí](./HW/09_otazka.md)
+ 10. - [x]  [Protokol IPv6, NDP](./HW/10_otazka.md) (in progress)
  11. - [ ]  [Zabezpečení komunikace, ACL](./HW/11_otazka.md)
  12. - [ ]  [Směrování, směrovací tabulky, směrovací protokoly](./HW/12_otazka.md)
  13. - [ ]  [Problematika bezpečnosti počítačových sítí](./HW/13_otazka.md)
 
 ### MIT
- 14. - [ ]  [Mikrokontroléry (mcu) - základní pojmy](./HW/14_otazka.md)
- 15. - [ ]  [Připojování externích periferií k mcu](./HW/15_otazka.md)
+ 14. - [x]  [Mikrokontroléry (mcu) - základní pojmy](./HW/14_otazka.md) (popis blokového schématu)
+ 15. - [x]  [Připojování externích periferií k mcu](./HW/15_otazka.md)
  16. - [ ]  [Čítačové podsystémy mcu](./HW/16_otazka.md)
  17. - [ ]  [Internet věcí](./HW/17_otazka.md)
  18. - [ ]  [Přerušovací podsystém mcu](./HW/18_otazka.md)
@@ -36,7 +36,7 @@
 
 ### PRG
  1. - [x]  [Základní programové konstrukce](./SW/01_otazka.md)
- 2. - [x]  [Algoritmus, algoritmická složitost](./SW/02_otazka.md) (P a NP problémy)
+ 2. - [x]  [Algoritmus, algoritmická složitost](./SW/02_otazka.md)
  3. - [x]  [Strukturované datové typy](./SW/03_otazka.md)
  4. - [x]  [Spojové struktury](./SW/04_otazka.md)
  5. - [ ]  [Objektové programování I](./SW/05_otazka.md)
