@@ -15,6 +15,12 @@
    - anycast
  - automatická konfigurace
 
+### Krátký zápis
+ - kanonický zápis
+ - lze odebrat nuly na začátku každé čtveřice
+ - konstrukce "::" musí mít co největší efekt
+   - musí být užita pro nejdelší skupinu nul zleva
+
 ## Srovnání IPv4 a IPv6
 
 <div align="center">

@@ -31,13 +31,7 @@
  - **WLAN**
    - používá vysílače pro pokrytí středně velké sítě
    - použití v domácnostech, kancelářích
- - **WMAN**
-   - specifické licencované frekvence
-   - mobilní sítě
- - **WWAN**
-   - specifické licencované frekvence
-   - národní a globální komunikace
-   - satelity
+ - ...
 
 ## IEEE 802.11 standardy
 
@@ -45,9 +39,10 @@
 	<thead>
 		<tr>
 			<th>Generace</th>
-			<th>IEEE WLAN standard</th>
+			<th>IEEE standard</th>
 			<th>Radiová frekvence</th>
-			<th>Popis</th>
+			<th>Rychlost</th>
+			<th>Modulace</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -55,64 +50,50 @@
 			<th></th>
 			<td>802.11</td>
 			<td>2.4 GHz</td>
-			<td>Rychlosti do <strong>2 Mb/s</strong></td>
+			<td>2 Mb/s</td>
+			<td></td>
 		</tr>
 		<tr>
 			<th></th>
 			<td>802.11a</td>
 			<td>5 GHz</td>
-			<td>
-				Rychlosti do <strong>54 Mb/s</strong> <br/>
-				Malá oblash pokrytí <br/>
-				Menší účinnost při pronikání budovami <br/>
-			</td>
+			<td>54 Mb/s</td>
+			<td>OFDM</td>
 		</tr>
 		<tr>
 			<th></th>
 			<td>802.11b</td>
 			<td>2.4 GHz</td>
-			<td>
-				Rychlosti do <strong>11 Mb/s</strong> <br/>
-				Delší dosah a průnik budovami než 802.11a
-			</td>
+			<td>11 Mb/s</td>
+			<td>DSSS</td>
 		</tr>
 		<tr>
 			<th></th>
 			<td>802.11g</td>
 			<td>2.4 GHz</td>
-			<td>
-				Rychlosti do <strong>54 Mb/s</strong> <br/>
-				Zpětná kompatibilita se standardem 802.11b
-			</td>
+			<td>54 Mb/s</td>
+			<td>OFDM</td>
 		</tr>
 		<tr>
 			<th>Wi-Fi 4</th>
 			<td>802.11n</td>
 			<td>2.4 a 5 GHz</td>
-			<td>
-				Rychlosti od <strong>150 Mb/s</strong> do <strong>600 Mb/s</strong> <br/>
-				Dosah až 70 m <br/>
-				AP a klienti vyžadují více antén pomocí MIMO <br/>
-			</td>
+			<td>600 Mb/s</td>
+			<td>MIMO OFDM</td>
 		</tr>
 		<tr>
 			<th>Wi-Fi 5</th>
 			<td>802.11ac</td>
 			<td>5 GHz</td>
-			<td>
-				Rychlosti od <strong>450 Mb/s</strong> do <strong>1,3 Gb/s</strong> <br/>
-				Podpora až <strong>8 antén</strong> <br/>
-				Zpětná kompatibilita s 802.11a/n <br/>
-			</td>
+			<td>3,5 Gb/s</td>
+			<td>MU-MIMO OFDM</td>
 		</tr>
 		<tr>
 			<th>Wi-Fi 6</th>
 			<td>802.11ax</td>
 			<td>2.4 a 5 GHz</td>
-			<td>
-				Rychlosti od <strong>574 Mb/s</strong> do <strong>9,6 Gb/s</strong> <br/>
-				<strong>BSS</strong> a <strong>WPA3</strong></strong> <br/>
-			</td>
+			<td>9,6 Gb/s</td>
+			<td>MU-MIMO OFDMA</td>
 		</tr>
 	</tbody>
 </table>

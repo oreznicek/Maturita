@@ -57,10 +57,6 @@ Spojová a fyzická dohromady tvoří vrstvu síťového přístupu
    - data jsou určena všem hostitelům v síti (LAN => nemůžeme zahltit globální síť)
  - **Multicast**
    - data jsou určena konkrétní skupině uživatelů
- - **Anycast**
-   - data putují k nejbližšímu cíli s danou IP adresou
-   - může být implementováno pouze v IPv6
-   - při anycastu je tedy jedna IPv6 adresa přiřazena více zařízením v síti
 
 ## Druhy médií
 
