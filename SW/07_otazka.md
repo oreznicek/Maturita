@@ -178,14 +178,6 @@ return; // když je návratový typ void
    - Finalizační metody
    - Další místní funkce
 
-### 2.3 Asynchronní metody
-
-blank
-
-### 2.4 Iterátory
-
-blank
-
 ## 3. Delegáty
  - Delegát je něco jako pointer na funkci
  - Když vytvoříte instanci delegátu, můžete jí přidružit s jakoukoli metodou s kompatibilním podpisem a návratovým typem

@@ -41,7 +41,7 @@
  4. - [x]  [Spojové struktury](./SW/04_otazka.md)
  5. - [ ]  [Objektové programování I](./SW/05_otazka.md)
  6. - [ ]  [Objektové programování II](./SW/06_otazka.md)
- 7. - [ ]  [Podprogramy](./SW/07_otazka.md)
+ 7. - [x]  [Podprogramy](./SW/07_otazka.md)
  8. - [ ]  [Návrhové vzory I](./SW/08_otazka.md)
  9. - [ ]  [Návrhové vzory II](./SW/09_otazka.md)
  10. - [ ]  [Paralelní programování](./SW/10_otazka.md)
