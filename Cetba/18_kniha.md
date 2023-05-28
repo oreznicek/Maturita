@@ -80,4 +80,4 @@ Na hranicích se Švýcarskem jim Brenske řekl, aby se všichni svlékli a šli
 
 ## Téma a motivy
  - **téma:** manipulace s bohatými židy
- - **motivy:** koncentrační tábor, peníze, antisemitismus, smrt
+ - **motivy:** naděje, smrt, peníze

@@ -5,48 +5,77 @@
  - Rozšířené instrukční sady
 
 ## CPU
- - Samotné jádro (ALU)
- - Řadíč (Control unit)
-   - Stará se o řízení a koordinaci celého systému
- - Registry
- - Vyrovnávací paměť (cache)
-   - L3 největší a nejpomalejší paměť → společná pro všechny jádra
-   - L2 rychlejší a menší než L3
+
+= integrovaný obvod, který provádí strojové instrukce
+
+ - **Samotné jádro (ALU)**
+ - **Řadič (Controlller)**
+   - řídí procesy
+   - dekóduje instrukce
+ - **Registry**
+   - velmi rychlá paměť
+   - slouží pro ukládání mezivýsledků
+ - **Vyrovnávací paměť (cache)**
+   - rychlejší přístup k datům než z RAM
+   - víceúrovňová
    - L1 nejmenší, ale nejrychlejší a je rozdělena na instrukce a data
-
-### Části ALU
- - L1 Cache
- - Pipelining
- - Branch predictor (předvídání skoků)
- - Integer a Float jednotky
-
-## Struktura současných procesorů
- - Moderní x86-64 procesory používají upravenou Harvardskou a Von Neumannovu architekturu jelikož je L1 Cache rozdělena na data a instrukce
-
-## Optimalizace provádění instrukcí
+   - L2 rychlejší a menší než L3
+   - L3 největší a nejpomalejší paměť → společná pro všechny jádra (dříve na MB)
 
 ### CISC
  - Měl usnadnit práci programátorů
  - složitější instrukce = assembler se dal používat skoro jako HLL
- - **Problémy:**
-   - Volání a návrat z podprogramu (musí se zapomenout rozpracované instrukce z fronty instrukcí (pipeline))
- - Díky tomu vzniklo - **predikce skoků**, **vybalování smyček**
 
 ### RISC
  - jednoduché instrukce
  - velké množství pracovních registrů (operace se provádí s těmito registry)
- - **Problémy:**
-   - Volání a návrat z podprogramů ... **prediktory skoků**
 
-### Zvýšení výpočetního výkonu procesorů
- - zmenšování velikosti tranzistorů a spojů mezi nimi
- - snižování napájecího napětí
- - zvyšování taktovací frekvence
- - rozšíření bitové šířky (8/16/32/64 bit)
- - zvýšení počtu pracovních registrů
- - pipelining - zřetězení instrukcí
-   - současně se provádí více instrukcí
-   - každá instrukce se nachází v jiné fázi zpracování
+## Struktura současných procesorů
+ - Moderní procesory popužívají x86-64 instrukční sadu
+ - na venek mají Von Neumannovu architekturu
+ - uvnitř Harvardská architektura → L1 je rozdělena na instrukční a datovou
+
+### x86
+ - architektura, která je založena na Intel procesoru 8086
+ - **CISC** → komplexní instrukce
+ - **variabilní délka instrukcí**
+ - 16/32/64 bit
+   - dnešní moderní CPU používají rozšíření x86-64
+ - **zpětně kompatibilní**
+
+## Optimalizace provádění instrukcí
+
+
+### Fronta instrukcí
+ - fronta, do které se vkládají operační kódy instrukcí z operační paměti
+ - řadič si z fronty postupně odebírá instrukce
+ - nemusíme čekat na operační paměť
+   - když se provádí složitější instrukce → načítáme nové instrukce do fronty
+   - když se provádí rychlé operace → můžeme rychle číst další instrukci z fronty
+ - musí se vyprázdnit v případě, že dojde ke změně běhu programu (přerušení, instrukce skoku)
+
+### Pipelining
+ - zřetězení instrukcí
+ - současně se provádí více instrukcí
+ - každá instrukce se nachází v jiné fázi zpracování
+ - velmi urychluje výpočty
+ - fáze provedení instrukce
+   - **fetch** - načtení instrukce z operační paměti
+   - **decode** - dekódování instrukce v řadiči
+   - **read** - přečteme obsah pracovních registrů + přenos do TEMP
+   - **execute** - provedení instrukce
+   - **write** - uložení výsledku do prac. reg.
+ - **problémy**
+   - volání a návrat podprogramu (musí se zapomenout rozpracované instrukce z fronty instrukcí)
+   - je to problém jak u RISC tak u CISC
+ - díky tomu vzniklo - **predikce skoků**
+
+### Prediktory skoků
+ - Slouží k předběžnému odhadnutí, jestli se skok provede či nikoli
+ - Dobré např. u smyček
+ - **Při prvním volání** má prediktor **50% úspěšnost**
+ - **Celková úspěšnost je 98%**
+ - jednobitový/dvoubitový
 
 ### Skalární architektura
  - umožňuje procesoru v jednom taktu načíst maximálně jednu instrukci
@@ -54,18 +83,15 @@
 ### Explicitní paralelní zpracování instrukcí
  - **VLIW**
    - Very Long Instruction Word
-   - jednoduchý řadič
-   - nepoužívá se
+   - více nezávislých operací se sjednotí do jedné VLIW operace
+   - tyto instrukce spouští paralelně 
+   - nepoužívá se, místo toho ...
  - **Superskalární architektura**
    - složitější řadič
-   - řadíč rozhoduje o paralelním provádění instrukcí
+   - řadič rozhoduje o paralelním provádění instrukcí
    - rozhoduje na základě obsazenosti pracovních registrů
+   - dynamičtější
 
-### Prediktory skoků
- - Slouží k předběžnému odhadnutí, jestli se skok provede či nikoli
- - Dobré např. u smyček
- - **Při prvním volání** má prediktor **50% úspěšnost**
- - **Celková úspěšnost je 98%**
 
 ## Snižování spotřeby
  - **Technologické** (s postupem času)

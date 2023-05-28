@@ -26,11 +26,11 @@
  19. - [ ]  [Vyšší programovací jazyky pro mcu](./HW/19_otazka.md)
  20. - [ ]  [Sériová rozhraní mcu](./HW/20_otazka.md)
  21. - [x]  [Procesory](./HW/21_otazka.md)
- 22. - [ ]  [Základní desky](./HW/22_otazka.md)
- 23. - [ ]  [Paměti](./HW/23_otazka.md)
- 24. - [ ]  [Zařízení pro ukládání dat](./HW/24_otazka.md)
- 25. - [ ]  [Grafické karty](./HW/25_otazka.md)
- 26. - [ ]  [Výstupní zařízení PC](./HW/26_otazka.md)
+ 22. - [x]  [Základní desky](./HW/22_otazka.md)
+ 23. - [x]  [Paměti](./HW/23_otazka.md)
+ 24. - [x]  [Zařízení pro ukládání dat](./HW/24_otazka.md)
+ 25. - [x]  [Grafické karty](./HW/25_otazka.md) (Vytváření 3D scény)
+ 26. - [x]  [Výstupní zařízení PC](./HW/26_otazka.md)
 
 ## Software
 
@@ -39,13 +39,13 @@
  2. - [x]  [Algoritmus, algoritmická složitost](./SW/02_otazka.md)
  3. - [x]  [Strukturované datové typy](./SW/03_otazka.md)
  4. - [x]  [Spojové struktury](./SW/04_otazka.md)
- 5. - [ ]  [Objektové programování I](./SW/05_otazka.md)
- 6. - [ ]  [Objektové programování II](./SW/06_otazka.md)
+ 5. - [x]  [Objektové programování I](./SW/05_otazka.md)
+ 6. - [x]  [Objektové programování II](./SW/06_otazka.md)
  7. - [x]  [Podprogramy](./SW/07_otazka.md)
- 8. - [ ]  [Návrhové vzory I](./SW/08_otazka.md)
- 9. - [ ]  [Návrhové vzory II](./SW/09_otazka.md)
- 10. - [ ]  [Paralelní programování](./SW/10_otazka.md)
- 11. - [ ]  [Architektury .NET](./SW/11_otazka.md)
+ 8. - [x]  [Návrhové vzory I](./SW/08_otazka.md)
+ 9. - [x]  [Návrhové vzory II](./SW/09_otazka.md)
+ 10. - [x]  [Paralelní programování](./SW/10_otazka.md)
+ 11. - [x]  [Architektury .NET](./SW/11_otazka.md)
  12. - [x]  [Verzovací systémy](./SW/12_otazka.md)
 
 ### WEB
